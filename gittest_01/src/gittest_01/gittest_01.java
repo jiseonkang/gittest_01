@@ -7,6 +7,7 @@ public class gittest_01 {
 		System.out.println("이클립스와 깃 연동");
 		System.out.println("이클립스와 깃 연동");
 		System.out.println("이클립스와 깃 연동");
+		System.out.println("이클립스와 깃 연동");
 	}
 
 }
